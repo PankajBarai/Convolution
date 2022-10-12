@@ -8,7 +8,7 @@ between the kernel and neighborhood that the kernel covers of the input image.
 
 
 
-Kernel:
+#Kernel:
 
 We use an odd kernel size to ensure there is a valid integer (x;y)-coordinate at the center of the image. 
 On the left, we have a 3X3 matrix.  The center of the matrix is located at x = 1;y = 1 
